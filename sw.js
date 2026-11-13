@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shell-drill-v1';
+const CACHE_NAME = 'shell-drill-v2';
 const APP_SHELL = [
   './',
   './index.html',
